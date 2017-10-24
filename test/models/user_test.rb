@@ -5,6 +5,7 @@ class UserTest < ActiveSupport::TestCase
   def setup
     @user = User.new(name: "Example User", email: "user@example.com",
     password: "foobar", password_confirmation: "foobar")
+              password: "foobar", password_confirmation: "foobar")
   end
 
   test "should be valid" do
@@ -49,7 +50,11 @@ class UserTest < ActiveSupport::TestCase
     end
   end
   
+<<<<<<< HEAD
    test "email addresses should be unique" do
+=======
+  test "email addresses should be unique" do
+>>>>>>> modeling-users
     duplicate_user = @user.dup
     duplicate_user.email = @user.email.upcase
     @user.save

@@ -1,0 +1,47 @@
+[33mcommit 54ba0ea6663e76240379be3c88ad4642ee31eee1[m[33m ([m[1;36mHEAD -> [m[1;32mmodeling-users[m[33m)[m
+Author: Daisaku Hazui <h.daisaku.biwabiwako@gmail.com>
+Date:   Thu Oct 19 08:13:12 2017 +0000
+
+    Finish layouts and routes OK
+
+[33mcommit 721de8ed11aa48f9a95e32430c9ff65a63ded20e[m[33m ([m[1;32mfilling-in-layout[m[33m)[m
+Author: Daisaku Hazui <h.daisaku.biwabiwako@gmail.com>
+Date:   Thu Oct 19 08:10:11 2017 +0000
+
+    Finish layout and routes
+
+[33mcommit a5a0a798cd7734a61ea8310366019666fc605d48[m
+Author: Daisaku Hazui <h.daisaku.biwabiwako@gmail.com>
+Date:   Thu Oct 19 08:05:33 2017 +0000
+
+    Finish the Link Test
+
+[33mcommit 74abb2dffd97f6baa60c59b6e6edde7fafa22344[m
+Author: Daisaku Hazui <h.daisaku.biwabiwako@gmail.com>
+Date:   Thu Oct 19 05:13:25 2017 +0000
+
+    Add a full_titale helper
+
+[33mcommit 70f1bf4c3d3d41a4d537a16c33bfc867a579f34e[m
+Author: Daisaku Hazui <h.daisaku.biwabiwako@gmail.com>
+Date:   Thu Oct 19 02:34:31 2017 +0000
+
+    Finish static pages
+
+[33mcommit 59d1856bb31905bd9f23ba6e81697e923bdf8baf[m
+Author: Daisaku Hazui <h.daisaku.biwabiwako@gmail.com>
+Date:   Wed Oct 18 01:42:16 2017 +0000
+
+    Add hello
+
+[33mcommit adabde5473967eb7b45cee71305c182f8b22c4e4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Daisaku Hazui <h.daisaku.biwabiwako@gmail.com>
+Date:   Wed Oct 18 01:16:21 2017 +0000
+
+    Improve the README
+
+[33mcommit f91483709ae10c47499e4cc68f9bda680744aa68[m
+Author: Daisaku Hazui <h.daisaku.biwabiwako@gmail.com>
+Date:   Wed Oct 18 01:14:59 2017 +0000
+
+    Initialize Repositry
